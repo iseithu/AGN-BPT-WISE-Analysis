@@ -1,4 +1,4 @@
-# SDSS AGN Analysis: BPT & WISE
+# SDSS Galaxy Classification: BPT & WISE
 
 This project uses SDSS data to classify galaxies using the BPT diagram and the WISE color–color diagram.
 
